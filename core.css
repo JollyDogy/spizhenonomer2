@@ -588,7 +588,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		#app-mount #bda-qem-twitch-container,
 		#app-mount #bda-qem-favourite-container {
 			background-color: var(--secondary3-colour); 
-			border-top: 1px solid var(--secondary2-colour);
+			border-top: 100px solid var(--secondary2-colour);
 		}
 
 		#app-mount .emojiPicker-3m1S-j, 
