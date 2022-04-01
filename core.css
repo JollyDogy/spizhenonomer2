@@ -112,7 +112,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		background-image: var(--transparency-1)
 	}
 
-	#app-mount .wrapper-2qzCYF {background: transparent; border-bottom: 2px solid var(--primary3-colour);}
+	#app-mount .wrapper-2qzCYF {background: transparent; border-bottom: 200px solid var(--primary3-colour);}
 	#app-mount .centerButton-3CaNcJ {background-color: var(--secondary1-colour)}
 	#app-mount .leaveButton-2YnTyt {background-color: var(--primary3-colour);}
 
@@ -588,7 +588,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		#app-mount #bda-qem-twitch-container,
 		#app-mount #bda-qem-favourite-container {
 			background-color: var(--secondary3-colour); 
-			border-top: 100px solid var(--secondary2-colour);
+			border-top: 1px solid var(--secondary2-colour);
 		}
 
 		#app-mount .emojiPicker-3m1S-j, 
