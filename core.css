@@ -112,7 +112,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		background-image: var(--transparency-1)
 	}
 
-	#app-mount .wrapper-2qzCYF {background: transparent; border-bottom: 200px solid var(--primary3-colour);}
+	#app-mount .wrapper-2qzCYF {background: transparent; border-bottom: 2px solid var(--primary3-colour);}
 	#app-mount .centerButton-3CaNcJ {background-color: var(--secondary1-colour)}
 	#app-mount .leaveButton-2YnTyt {background-color: var(--primary3-colour);}
 
@@ -607,7 +607,7 @@ The 2 items above are not owned by me, They go to there respected owners
 	/*TopBar*/
 	#app-mount .typeWindows-2-g3UY {
 		background-color: var(--secondary3-colour); 
-		border-bottom: 2px solid var(--primary3-colour); 
+		border-bottom: 200px solid var(--primary3-colour); 
 		height: 32px;
 		margin: 0px;
 	}
